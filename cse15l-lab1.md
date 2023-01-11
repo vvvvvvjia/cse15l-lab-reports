@@ -13,4 +13,5 @@
 4. enter the password for the account, then we are done
 ![Image](4.png)
 
-
+5. Here are some examples about commands on the terminal
+![Image](5.png)
