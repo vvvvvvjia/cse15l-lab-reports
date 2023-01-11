@@ -1,10 +1,16 @@
 # CSE 15l Lab1 Report
 
-1. This
-2. is
-3. CAE 15l Lab
-
+## how to log into a course-specific account on ieng6
+1. open VScode
 ![Image](1.png)
 
-# bigger
-## smaller
+2. open a terminal in VScode
+![Image](2.png)
+
+3. write 'ssh username@ieng6.ucsd.edu', and enter
+![Image](3.png)
+
+4. enter the password
+![Image](4.png)
+
+
